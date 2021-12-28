@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: Christian Kitte
  * Date: 12.05.2017
- * Time: 15:27
+ * Time: 15:27.
  */
 
 namespace views;
